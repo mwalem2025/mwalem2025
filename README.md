@@ -17,7 +17,7 @@ I'm a detail-oriented **Supply Chain Data Analyst** with over 30 years of experi
 - 🎓 MCIPS Certified (Chartered Institute of Procurement & Supply)
 - 🧠 Strong background in supply chain operations and analytics
 - 🛠 ERP user with hands-on SAP S/4HANA Materials Management 
--->
+
   
 📚 **Certifications & Education**
 
@@ -27,5 +27,5 @@ I'm a detail-oriented **Supply Chain Data Analyst** with over 30 years of experi
 
 📫 **Let's Connect**
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 [your.email@example.com](mailto:your.email@example.com) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mwalem/)  
+- 📧 [moses.mwale@jeretail.co.uk](moses.mwale@jeretail.co.uk) 
