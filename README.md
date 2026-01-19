@@ -28,4 +28,4 @@ I'm a detail-oriented **Supply Chain Data Analyst** with over 30 years of experi
 📫 **Let's Connect**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mwalem/)  
-- 📧 [moses.mwale](moses@l3logistic.com) 
+
